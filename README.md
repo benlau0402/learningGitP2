@@ -1,3 +1,3 @@
-#LearningGit
+# LearningGit
 
-This change is made on my laptop
+This change is made on my pc
